@@ -4,9 +4,9 @@ mensaje01 = 'Buenos dias'
 # Definimos otra variable llamada 'mensaje02' que almacena el texto "Buenas noches".
 mensaje02 = "Buenas noches"
 
-# Definimos una variable llamada 'funcionprint' que guarda una explicaci髇 sobre la funci髇 'print()'.
-# Esta explicaci髇 indica que la funci髇 'print()' muestra en la consola el contenido de una variable o valor.
+# Definimos una variable llamada 'funcionprint' que guarda una explicaci贸n sobre la funci贸n 'print()'.
+# Esta explicaci贸n indica que la funci贸n 'print()' muestra en la consola el contenido de una variable o valor.
 funcionprint = '"print()" es una funcion que le imprime al usuario una variable seleccionada en la consola'
 
-# Usamos la funci髇 'print()' para mostrar el contenido de la variable 'funcionprint' en la consola.
+# Usamos la funci贸n 'print()' para mostrar el contenido de la variable 'funcionprint' en la consola.
 print(funcionprint)
