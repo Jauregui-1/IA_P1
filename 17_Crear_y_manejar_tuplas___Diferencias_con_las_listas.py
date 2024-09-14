@@ -1,21 +1,21 @@
 # Se crea una tupla de colores con 10 elementos
 colores = ('rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa', 'blanco', 'naranja')
 
-# Se imprime el elemento en la posici髇 1 de la tupla 'colores'
+# Se imprime el elemento en la posici贸n 1 de la tupla 'colores'
 # Las tuplas en Python son similares a las listas pero inmutables
-# El 韓dice 1 corresponde al segundo elemento, que es 'azul'
+# El 铆ndice 1 corresponde al segundo elemento, que es 'azul'
 print(colores[1])
 
-# Se crea una tupla de n鷐eros
+# Se crea una tupla de n煤meros
 numeros = (10, 1, 5, 11)
 
-# Se realiza una operaci髇 combinada utilizando los elementos de la tupla 'numeros'
+# Se realiza una operaci贸n combinada utilizando los elementos de la tupla 'numeros'
 # - numeros[2] es 5
 # - numeros[1] es 1
 # - numeros[0] es 10
-# - numeros[-1] es 11 (el 鷏timo elemento)
-# La operaci髇 es: 5 - 1 + 10 + 11
+# - numeros[-1] es 11 (el 煤ltimo elemento)
+# La operaci贸n es: 5 - 1 + 10 + 11
 operacion = numeros[2] - numeros[1] + numeros[0] + numeros[-1]
 
-# Se imprime el resultado de la operaci髇 combinada
+# Se imprime el resultado de la operaci贸n combinada
 print(operacion)
