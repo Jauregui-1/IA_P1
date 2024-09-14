@@ -1,4 +1,4 @@
-# Se crea un diccionario llamado 'teclado1' que contiene información sobre un teclado
+# Se crea un diccionario llamado 'teclado1' que contiene informaciÃ³n sobre un teclado
 # Las claves del diccionario son 'CATEGORIA', 'MODELO', y 'PRECIO'
 teclado1 = {
     'CATEGORIA': 'TECLADOS',
@@ -6,7 +6,7 @@ teclado1 = {
     'PRECIO': '89.99'
 }
 
-# Se crea un segundo diccionario llamado 'teclado2' con información sobre otro teclado
+# Se crea un segundo diccionario llamado 'teclado2' con informaciÃ³n sobre otro teclado
 # Las claves del diccionario son 'CATEGORIA', 'MODELO', y 'PRECIO'
 teclado2 = {
     'CATEGORIA': 'TECLADOS',
