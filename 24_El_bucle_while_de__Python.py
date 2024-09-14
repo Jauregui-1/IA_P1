@@ -7,10 +7,10 @@ x = 0
 while x <= 15:
     # Se imprime el valor actual de x
     print(x)
-    # Se incrementa x en 5 en cada iteración del bucle
+    # Se incrementa x en 5 en cada iteraciÃ³n del bucle
     x += 5
 
-# Se imprime una línea en blanco para separar las salidas de los bucles
+# Se imprime una lÃ­nea en blanco para separar las salidas de los bucles
 print('\n')
 
 # Se imprime un mensaje indicando el inicio del segundo bucle while
@@ -22,10 +22,10 @@ x = 0
 while x >= -100:
     # Se imprime el valor actual de x
     print(x)
-    # Se decrementa x en 20 en cada iteración del bucle
+    # Se decrementa x en 20 en cada iteraciÃ³n del bucle
     x -= 20
 
-# Se imprime una línea en blanco para separar las salidas de los bucles
+# Se imprime una lÃ­nea en blanco para separar las salidas de los bucles
 print('\n')
 
 # Se imprime un mensaje indicando el inicio del tercer bucle while
@@ -37,5 +37,5 @@ x = 10
 while x >= 0:
     # Se imprime el valor actual de x
     print(x)
-    # Se decrementa x en 1 en cada iteración del bucle
+    # Se decrementa x en 1 en cada iteraciÃ³n del bucle
     x -= 1
