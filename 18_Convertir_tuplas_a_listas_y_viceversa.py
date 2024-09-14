@@ -6,5 +6,5 @@ colores = ['rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa
 COLORES = tuple(colores)
 
 # Se imprime la tupla 'COLORES' y el tipo de dato de 'COLORES'
-# La función type() devuelve el tipo de dato del objeto pasado como argumento
+# La funciÃ³n type() devuelve el tipo de dato del objeto pasado como argumento
 print(COLORES, '\n', 'Tipo de dato: ', type(COLORES))
