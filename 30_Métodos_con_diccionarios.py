@@ -1,4 +1,4 @@
-# Se definen dos diccionarios: 'teclado1' y 'teclado2' con información de teclados
+# Se definen dos diccionarios: 'teclado1' y 'teclado2' con informaciÃ³n de teclados
 teclado1 = {
     'CATEGORIA': 'TECLADOS',
     'MODELO': 'HYPERX ALLOY FPS PRO',
@@ -11,14 +11,14 @@ teclado2 = {
     'PRECIO': '59.99'
 }
 
-# La función len() se usa para obtener el número de claves en el diccionario 'teclado1'
+# La funciÃ³n len() se usa para obtener el nÃºmero de claves en el diccionario 'teclado1'
 x = len(teclado1)
 
-# Se imprime el número de claves del diccionario 'teclado1'
-print("El número de claves del diccionario teclado 1 es de: ", x)
+# Se imprime el nÃºmero de claves del diccionario 'teclado1'
+print("El nÃºmero de claves del diccionario teclado 1 es de: ", x)
 
 # Se eliminan las claves 'CATEGORIA' y 'PRECIO' del diccionario 'teclado2'
 del teclado2['CATEGORIA'], teclado2['PRECIO']
 
-# Se imprime el diccionario 'teclado2' después de eliminar las claves
+# Se imprime el diccionario 'teclado2' despuÃ©s de eliminar las claves
 print(teclado2)
